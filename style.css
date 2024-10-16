@@ -1,0 +1,14 @@
+body {
+    background-color:#7fc8ff  
+}
+#premier-p {
+    color: green;
+    height: 200px;
+    border: 1px solid white;
+    margin: 100px;
+    padding: 20px 30px;
+}
+
+.titi {
+    color: red;
+}
